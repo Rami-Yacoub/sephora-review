@@ -1,0 +1,11 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Données 
+dataset/
+datasets/
+
+# Notebooks
+notebooks/
+*.ipynb_checkpoints/
